@@ -1,5 +1,5 @@
 # Loan Analyzer
-This project is automating a process to calculate and value loans 
+This project is automating a process to calculate and value loans.
 
 There are a number of steps that were done to determine the inexepensive loans:
 
